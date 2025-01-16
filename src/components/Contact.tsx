@@ -19,9 +19,7 @@ function Contact() {
 			</h1>
 
 			<div className="flex justify-center items-center bg-black md:bg-black mt-1 md:mt-16 py-3 px-3 rounded-3xl shadow-md shadow-slate-900">
-				<div className=" hidden md:block w-fit  ">
-					<Image src="/images/Contact.svg" alt="img" width={70} height={70} className=" w-[70rem] h-auto  rounded-3xl" />
-				</div>
+				
 
 				<div className=" leading-7 px-1 md:px-10 pt-10  ">
 					<h1 className="text-2xl ">Get in Touch </h1>
