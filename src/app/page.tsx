@@ -4,6 +4,7 @@ import Image from "next/image";
 import Qualification from "@/components/Qualification";
 import TechStack from "@/components/TechStack";
 import Contact from "@/components/Contact";
+
 import About from "@/components/About";
 
 export default function Home() {
